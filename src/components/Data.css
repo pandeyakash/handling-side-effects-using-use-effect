@@ -1,0 +1,23 @@
+h1 {
+  background-color: rgb(159, 165, 165);
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.data-container {
+  background-color: aquamarine;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 10px;
+}
+
+.data-box {
+  border: 2px solid rgb(56, 127, 103);
+  width: 300px;
+  height: 200px;
+  padding: 5px;
+  margin-bottom: 10px;
+  background-color: rgb(56, 127, 103);
+  border-radius: 10px;
+}
